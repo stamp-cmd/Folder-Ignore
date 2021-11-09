@@ -14,4 +14,4 @@ Ignore/README.md linguist-detected=true
 # Set Files Language
 .gitignore linguist-language=Git-Config
 .gitattributes linguist-language=Git-Attributes
-README.md linguist-language=Markdown
+Ignore/README.md linguist-language=Markdown
