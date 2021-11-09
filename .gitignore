@@ -1,0 +1,6 @@
+# Ignore "Ignore" Folder
+Ignore/*
+!Ignore/README.md
+# Ignore Git Files
+!.gitignore
+!.gitattributes

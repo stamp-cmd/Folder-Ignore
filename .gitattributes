@@ -1,0 +1,17 @@
+* text=auto
+# Set All Files EOL CRLF
+.gitignore eol=crlf
+.gitattributes eol=crlf
+README.md eol=crlf
+# Set All Files Vendored False
+.gitignore linguist-vendored=false
+.gitattributes linguist-vendored=false
+README.md linguist-vendored=false
+# Set All Files Detected True
+.gitignore linguist-detected=true
+.gitattributes linguist-detected=true
+README.md linguist-detected=true
+# Set Files Language
+.gitignore linguist-language=Git-Config
+.gitattributes linguist-language=Git-Attributes
+README.md linguist-language=Markdown
